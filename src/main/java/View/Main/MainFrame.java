@@ -260,7 +260,7 @@ public class MainFrame extends JFrame {
             }
         });
         statistics.setBackground(Color.WHITE);
-        statistics.setBounds(0, 436, 249, 44);
+        statistics.setBounds(0, 400, 249, 44);
         panel.add(statistics);
         statistics.setLayout(null);
         JLabel statisticslable = new JLabel("数据统计");
